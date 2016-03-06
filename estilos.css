@@ -1,0 +1,32 @@
+body{
+	background:orange;
+	color: black;
+}
+.verde{
+	color: red;
+}
+.azul{
+	color: blue;
+}
+#primero{
+	font-style:70px;
+}
+.amarillo{
+	color: red;
+}
+.red{
+color: white;	
+}
+.img{
+	color: red;
+}
+.img{
+	border: 3px solid purple;
+}
+.img:hover{
+box-shadow: 10px 10px 20px white;
+cursor: pointer;
+transition:15;
+}
+
+

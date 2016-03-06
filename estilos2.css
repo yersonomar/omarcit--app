@@ -1,0 +1,64 @@
+body{
+	background: 
+yellow;
+}
+.contenedor{
+	border: 0px solid red;
+	width:960px;
+	margin: 0 auto;
+
+}
+.menu-lista{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+.menu-item{
+	display: inline-block;
+}
+.menu-link{
+
+}
+nav{
+	text-align: center;
+}
+.menu-link{
+	font-size: 30px;
+	background: black;
+	color: white;
+}
+.menu-link{
+	padding: 10px;
+	border-radius: 10px;
+	text-decoration: none;
+}
+.menu-link:hover{
+	text-decoration: underline;
+	box-shadow: 5px 5px 15px orange;
+	transition: 0.5s;
+}
+
+	.img:hover{
+box-shadow: 10px 10px 20px white;
+cursor: pointer;
+transition:15;
+}
+.img-src{
+	border-color: orange;
+
+}
+.contenedor{
+	border: 16px solid red;
+	width:960px;
+	margin: 0 auto;
+	border-color: orange;
+}
+.yer-jpg{
+	border: 16px solid red;
+	
+
+}
+.diptico_beca_18-01.jpg{
+	: orange;
+}
